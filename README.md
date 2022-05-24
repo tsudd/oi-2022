@@ -1,4 +1,4 @@
-# Ответы к экзаменационным вопросам по МИоУ
+# Ответы к экзаменационным вопросам по МОиУ
 
 Inspired by [alex65536](https://github.com/alex65536/bulatov-lectures-2).
 
@@ -104,7 +104,7 @@ Inspired by [alex65536](https://github.com/alex65536/bulatov-lectures-2).
 
 ## Как установить LaTex (Linux)
 
-Здесь последовательность шагов, которая помогла мне. [Здесь](https://tug.org/texlive/doc/texlive-en/texlive-en.html#x1-140003) можно почитать подробнее об установке `tex-live`.
+Здесь последовательность шагов, которая помогла мне. 
 - Скачать архив `install-tl.zip` с *tex-live* из [зеркала](https://mirror.datacenter.by/pub/mirrors/CTAN/systems/texlive/tlnet/)
 * Разархивировать его и открыть папку с содержимым в терминале
 * Используя следующую комманду установить движок Tex (весит +- 3.5 Гб, будьте внимательны). Также доступна версия с GUI (если добавить флаг `-gui` в конце).
