@@ -231,3 +231,7 @@ TSWLatexianTemp*
 
 # generated if using elsarticle.cls
 *.spl
+
+# clean git
+.vscode
+dist/*
